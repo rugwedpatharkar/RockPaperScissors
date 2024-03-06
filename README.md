@@ -25,4 +25,4 @@ This is a simple web-based Rock Paper Scissors game implemented using HTML, CSS,
 - Scores for the player and computer are displayed at the top.
 - Enjoy playing Rock Paper Scissors!
 
-!(https://github.com/rugwedpatharkar/RockPaperScissors/blob/main/images/rockpaperscissors.png)
+![rockpaperscissors](images/rockpaperscissors.png)
